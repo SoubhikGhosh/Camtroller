@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 20 20:42:01 2020
-@author: Pratik Chandra
+@author: Soubhik Ghosh
 @description: Game controlling with Fists in Navy blue gloves using openCV. Left Fist- Break Right Fist- acceleration
-
+"""
 
 from imutils.video import VideoStream
 import numpy as np
